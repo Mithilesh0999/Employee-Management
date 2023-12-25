@@ -1,0 +1,17 @@
+{
+  "101": {
+    "name": "savan",
+    "position": "developer",
+    "salary": "34567"
+  },
+  "500": {
+    "name": "Mithilesh",
+    "position": "developer",
+    "salary": "50000"
+  },
+  "501": {
+    "name": "Savan",
+    "position": "developer",
+    "salary": "50000"
+  }
+}
